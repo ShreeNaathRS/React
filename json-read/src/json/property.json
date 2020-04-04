@@ -1,0 +1,8 @@
+[
+    {
+        "id" : "name",
+        "type" : "text",
+        "maxlength" : 25,
+        "placeholder" : "Please enter name"
+    }
+]

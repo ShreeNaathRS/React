@@ -1,0 +1,18 @@
+[
+    {
+        "key" : "name",
+        "label" : "Name",
+        "props" : {"required" : true}
+    },
+    {
+        "key" : "desc",
+        "label" : "Description",
+        "props" : {"required" : true}
+    },
+    {
+        "key" : "timeout",
+        "label" : "Timeout",
+        "type" : "number",
+        "props" : { "min" : 0,"max" : 10}
+    }
+]
